@@ -31,6 +31,6 @@ The goal is to process lab report images, extract the test names, their correspo
    - Your public URL will look like this: `http://your-ngrok-subdomain.ngrok.io`
    
    Example:
-   ![[Ngrok Public URL](https://317a-34-16-198-81.ngrok-free.app/get-lab-tests)](Path)
+   ![[Ngrok Public URL](https://317a-34-16-198-81.ngrok-free.app/get-lab-tests)]
 
 
