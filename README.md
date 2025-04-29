@@ -1,8 +1,8 @@
 # Lab Test Extraction API
-NAME: PRASHANTH G
-REGISTRATION NUMBER: RA2211003020102
-BATCH:2026
-ROLE: DATA SCIENCE
+**Name:** Prashanth G  
+**Registration Number:** RA2211003020102  
+**Batch:** 2026  
+**Role:** Data Science
 
 This project provides a scalable and accurate solution to extract lab test names, values, and reference ranges from lab report images. The solution utilizes Optical Character Recognition (OCR) to extract the data and exposes it through a FastAPI-based service. 
 
