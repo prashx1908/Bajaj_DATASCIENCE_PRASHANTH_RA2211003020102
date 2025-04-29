@@ -11,17 +11,22 @@ The goal is to process lab report images, extract the test names, their correspo
 
 ### Example Outputs
 
-1. **Endpoint Processing:**
+ **REQUIRED OUTOUT:**
+   ![Endpoint Processing](FINALOUTPUT.png)
+
+
+**Endpoint Processing:**
    ![Endpoint Processing](NGROK1OUTPUT.png)
 
-2. **API OUTPUT:**
+**API OUTPUT:**
    ![API OUTPUT](NGROKOUTPUT.png)
 
-3. **ENDPOINT REGISTRATION:**
+**ENDPOINT REGISTRATION:**
    ![ENDPOINT REGISTRATION](ENDPOINT.png)
 
-4. **ENDPOINT TRAFFICS:**
+**ENDPOINT TRAFFICS:**
    ![ENDPOINT TRAFFICS](ENDPOINT_TRAFFIC.png)
+
 
 ### Ngrok Setup for Public Access
 
