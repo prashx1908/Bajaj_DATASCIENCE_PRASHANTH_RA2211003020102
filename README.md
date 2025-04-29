@@ -12,7 +12,7 @@ The goal is to process lab report images, extract the test names, their correspo
 ### Example Outputs
 
  **REQUIRED OUTOUT:**
-   ![Endpoint Processing](FINALOUTPUT.png)
+   ![Endpoint Processing](REQOUTPUT.png)
 
 
 **Endpoint Processing:**
